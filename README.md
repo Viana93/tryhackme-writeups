@@ -14,10 +14,10 @@ The goal is to demonstrate my technical progression in Ethical Hacking, Penetrat
 
 | Room | Status | Documentation |
 |------|:------:|:-------------:|
-| [Introduction to Cyber Security](./pre-security/introduction-to-cyber-security) | ✅ | ✔ |
-| [Network Fundamentals](./pre-security/network-fundamentals) | ✅ | ✔ |
-| How the Web Works | ⏳ | Coming Soon |
-| Computer Fundamentals | ⏳ | Coming Soon |
+| Introduction to Cyber Security | ✅ | [✔](./pre-security/introduction-to-cyber-security) |
+| Network Fundamentals | ✅ | [✔](./pre-security/network-fundamentals) |
+| How the Web Works | ✅ | [✔](./pre-security/how-the-web-works) |
+| Computer Fundamentals | ✅ | [✔](./pre-security/computer-fundamentals) |
 
 ---
 
