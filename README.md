@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity portfolio.
 
-This repository documents my practical learning through TryHackMe rooms and hands-on cybersecurity labs.
+This repository showcases my cybersecurity learning journey through hands-on labs, practical exercises, and technical write-ups focused on Ethical Hacking and Penetration Testing.
 
 The goal is to demonstrate my technical progression in Ethical Hacking, Penetration Testing, Linux, Networking, and Web Security.
 
@@ -14,8 +14,8 @@ The goal is to demonstrate my technical progression in Ethical Hacking, Penetrat
 
 | Room | Status | Documentation |
 |------|:------:|:-------------:|
-| Introduction to Cyber Security | ✅ | [View](./pre-security/introduction-to-cyber-security) |
-| Network Fundamentals | ✅ | [View](./pre-security/network-fundamentals) |
+| [Introduction to Cyber Security](./pre-security/introduction-to-cyber-security) | ✅ | ✔ |
+| [Network Fundamentals](./pre-security/network-fundamentals) | ✅ | ✔ |
 | How the Web Works | ⏳ | Coming Soon |
 | Computer Fundamentals | ⏳ | Coming Soon |
 
