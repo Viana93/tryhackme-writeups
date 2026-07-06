@@ -19,11 +19,7 @@ The goal is to demonstrate my technical progression in Ethical Hacking, Penetrat
 | [How the Web Works](./pre-security/how-the-web-works) | ✅ | ✔ |
 | [Computer Fundamentals](./pre-security/computer-fundamentals) | ✅ | ✔ |
 
----
 
-## 🚧 In Progress
-
-- Junior Penetration Tester
 
 ---
 
