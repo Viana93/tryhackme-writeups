@@ -60,8 +60,6 @@ The goal is to demonstrate my technical progression in Ethical Hacking, Penetrat
 tryhackme-writeups
 │
 ├── pre-security
-├── junior-penetration-tester
-├── images
 └── README.md
 ```
 
