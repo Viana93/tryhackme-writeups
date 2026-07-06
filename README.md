@@ -1,4 +1,4 @@
-# 🛡️ TryHackMe Write-ups
+# 🛡️ Paola Viana | Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio.
 
@@ -12,10 +12,12 @@ The goal is to demonstrate my technical progression in Ethical Hacking, Penetrat
 
 ## ✅ Pre Security
 
-- [ ] Introduction to Cyber Security
-- [ ] Network Fundamentals
-- [ ] How the Web Works
-- [ ] Computer Fundamentals
+| Room | Status | Documentation |
+|------|:------:|:-------------:|
+| Introduction to Cyber Security | ✅ | [View](./pre-security/introduction-to-cyber-security) |
+| Network Fundamentals | ✅ | [View](./pre-security/network-fundamentals) |
+| How the Web Works | ⏳ | Coming Soon |
+| Computer Fundamentals | ⏳ | Coming Soon |
 
 ---
 
