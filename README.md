@@ -27,19 +27,6 @@ The goal is to demonstrate my technical progression in Ethical Hacking, Penetrat
 
 ---
 
-## 📅 Coming Soon
-
-- Nmap
-- Burp Suite
-- OWASP Top 10
-- Active Directory
-- Linux Privilege Escalation
-- Windows Privilege Escalation
-- Metasploit
-- Hack The Box
-
----
-
 # 🛠️ Skills Being Developed
 
 - Linux
